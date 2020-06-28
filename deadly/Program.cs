@@ -11,7 +11,7 @@ namespace deadly
         /// </summary>
         /// <param name="filename">Give the absolute filepath to an image</param>
         /// <param name="style">Give one of the style of the wallpaper { tile, center, stretch, fill, fit, span }</param>
-        static void Main(string filename = @"F:\Abhi\shop\deadly\Sample.png", string style = "Center")
+        static void Main(string filename = @"F:\Abhi\shop\deadly\deadly\Sample.png", string style = "Center")
         {
             string path = filename;
 
